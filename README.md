@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Sanju Debnath from India<br><br>- 🔭 I’m studying Bachelors in Computer Science<br>- 📚 I'm currently learning AI/ML<br>- ⚡ In my free time I learn System Design & MLOps</p>
+<p align="left">I'm Sanju Debnath from India<br><br>- 🔭 I’m studying Master of Computer Applications<br>- 📚 I'm currently learning ML/DL<br>- ⚡ In my free time I learn System Design & MLOps</p>
 
 ###
 
