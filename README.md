@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 Aspiring Data Analyst</h3>
+<h3 align="left">👩‍💻 LLMs Specialist</h3>
 
 ###
 
